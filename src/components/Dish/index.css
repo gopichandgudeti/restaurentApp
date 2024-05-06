@@ -1,0 +1,9 @@
+.dish-item {
+    display: flex;
+    flex-direction: row;
+    height:150px;
+    width:100%;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+}
